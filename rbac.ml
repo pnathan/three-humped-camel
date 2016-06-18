@@ -1,5 +1,5 @@
 (*
-Licensed unde the Affero Gnu Public License 3.0 or later.
+Licensed under either (1) the Affero Gnu Public License 3.0 or later, or the MIT license.
 
 (C) 2016 Paul Nathan
 
